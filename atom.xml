@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>English-Note</title>
+  
+  
+  <link href="https://sunkening0.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://sunkening0.github.io/"/>
+  <updated>2023-04-11T07:33:47.188Z</updated>
+  <id>https://sunkening0.github.io/</id>
+  
+  <author>
+    <name>Keelin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试分类</title>
+    <link href="https://sunkening0.github.io/2023/04/11/test-md/"/>
+    <id>https://sunkening0.github.io/2023/04/11/test-md/</id>
+    <published>2023-04-11T06:49:45.534Z</published>
+    <updated>2023-04-11T07:33:47.188Z</updated>
+    
+    
+    
+    
+    <category term="语法" scheme="https://sunkening0.github.io/categories/%E8%AF%AD%E6%B3%95/"/>
+    
+    
+    <category term="标签1" scheme="https://sunkening0.github.io/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>金康质量数据管理平台</title>
+    <link href="https://sunkening0.github.io/2023/04/11/README/"/>
+    <id>https://sunkening0.github.io/2023/04/11/README/</id>
+    <published>2023-04-11T05:18:51.243Z</published>
+    <updated>2023-04-11T07:34:55.078Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="金康质量数据管理平台"><a href="#金康质量数据管理平台" class="headerlink" title="金康质量数据管理平台"></a>金康质量数据管理平台</h1><h2 id="1-项目结构"><a href="#1-项目结构" class="headerlink" title="1 项目结构"></a>1 项目结构</h2><pre><code>manual-entry-system            # 人工录入系统（微服务）multisystem-data-integration   # 多系统数据集成（微服务）data-acquisition               # 数据采集转换（微服务）quality-monitor-board          # 质量监控看板（微服务）quality-common                 # 公共依赖（流计算）</code></pre><h2 id="2-版本说明"><a href="#2-版本说明" class="headerlink" title="2 版本说明"></a>2 版本说明</h2><p>微服务中使用的Springboot版本为2.2.7</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;金康质量数据管理平台&quot;&gt;&lt;a href=&quot;#金康质量数据管理平台&quot; class=&quot;headerlink&quot; title=&quot;金康质量数据管理平台&quot;&gt;&lt;/a&gt;金康质量数据管理平台&lt;/h1&gt;&lt;h2 id=&quot;1-项目结构&quot;&gt;&lt;a href=&quot;#1-项目结构&quot; class=&quot;</summary>
+      
+    
+    
+    
+    <category term="语法" scheme="https://sunkening0.github.io/categories/%E8%AF%AD%E6%B3%95/"/>
+    
+    
+    <category term="标签1" scheme="https://sunkening0.github.io/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://sunkening0.github.io/2023/04/11/hello-world/"/>
+    <id>https://sunkening0.github.io/2023/04/11/hello-world/</id>
+    <published>2023-04-11T02:51:27.115Z</published>
+    <updated>2023-04-11T07:08:32.560Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a class=&quot;link&quot;   href=&quot;https://hexo.io/&quot; &gt;Hexo &lt;i class=&quot;fa-regular fa-arrow-up-right-from-square fa-sm&quot;&gt;&lt;/i&gt;&lt;/a&gt;! This is yo</summary>
+      
+    
+    
+    
+    <category term="语法" scheme="https://sunkening0.github.io/categories/%E8%AF%AD%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+</feed>
